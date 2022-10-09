@@ -2,6 +2,9 @@
 This is a to do list app which users can add, edit, delete the items. This app developed with Core Data, so when the users close the app, the items is not deleted. They can add new item, edit and delete the previous ones when they reopen the app.
 
 
+
+https://user-images.githubusercontent.com/92036779/194779489-e7847b05-1b8f-4ade-afc5-9583fbc25b9d.mp4
+
 <img width="353" alt="Ekran Resmi 2022-10-09 23 19 31" src="https://user-images.githubusercontent.com/92036779/194778543-f5d60b9a-becf-4fde-b9d4-e569ae2689d3.png">
 <img width="354" alt="Ekran Resmi 2022-10-09 23 21 47" src="https://user-images.githubusercontent.com/92036779/194778551-7f901537-8a2d-46ef-b66c-e838817add7c.png">
 <img width="356" alt="Ekran Resmi 2022-10-09 23 21 55" src="https://user-images.githubusercontent.com/92036779/194778565-d6238b34-3c24-43a8-acf6-f0315f475c2f.png">
