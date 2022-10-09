@@ -1,6 +1,5 @@
 # ToDoList-CoreData
-This is a to do list app which users can add, edit, and delete the items. This app developed with Core Data, so when the users close the app, the items are not deleted. They can add new item, edit or delete the previous ones when they reopen the app.
-
+This is a to do list app which users can add, edit, and delete the items. This app was developed with Core Data, so when the users close the app, the items are not deleted. They can add new item, edit or delete the previous ones when they reopen the app.
 
 
 https://user-images.githubusercontent.com/92036779/194779489-e7847b05-1b8f-4ade-afc5-9583fbc25b9d.mp4
